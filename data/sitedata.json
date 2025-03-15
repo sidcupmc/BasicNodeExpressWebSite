@@ -1,6 +1,6 @@
 {
   "pageInfo": {
-    "pageTitle": "Mike Clarke's Website",
+    "pageTitle": "Basic Node Express Website",
     "technologiesTitle": "Technologies",
     "technologiesSubTitle": "Technology Interests",
     "technologiesIntro": " Over the years i've been lucky enough to have worked with and been involved with a vast array of technologies. I started my career as an electrical engineer but was interested in electronics and electrics from an early age. After a few years as an electrical apprentice working for Thames Water, I was lucky enough to be able to move into the ICA (Instrumentation, Control and Automation) department. The ICA dept. was a reasonably new dept. within Thames Water and its function was mainly related to upgrading and automating the process and control of the plant that the sites used. After passing my apprenticeship I eventually got the role of Systems Engineer where I was responsible for the South East area for clean water treatment. This involved working on real-time control systems for the reseviours, pumping stations and the London Water Ring Main. After 11 years I left Thames Water and moved more towards business application software development.",
@@ -9,59 +9,38 @@
 
   "about": [
     {
-      "text": "I've been an engineer for 37 years now. I started as an Electrical and Electronics Engineer in 1987 as part of an apprenticeship with Thames Water. I was lucky enough to get into control and automation and from there became interested in real-time industrial programming."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "text": "I worked mostly on GEC Gem 80 Programmable Logic Controllers (PLCs) but also on Mitsubishi and Allen Bradley PLCs. All of these controllers used ladder logic. Towards the end of the 90s, many systems were replaced or extended with Supervisory, Control and Data Acquisition (SCADA) systems. These systems allowed processes to be controlled using software more like we see today. Systems such as Bristol Babcock used Advanced Communications and Control Oriented Language (ACCOL) that ran on their distributed Network 3000 devices and were all connected to DEC 3000 workstations running VMS via RS-232, RS-242, RS-485 and later on 100BASE-T Ethernet connections."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "text": "After some years of working on industrial control software I became interested in web programming. Web programming was in its infancy around this time (1996-97) but Microsoft had released Active Server Pages (ASP) that allowed developers to create dynamic websites using HTML and inline script. My first commercial project using ASP was whilst working for a Dotcom business that catered for students in 2001. This involved redeveloping their website from a static to a dynamic site that included messages boards, chat rooms and virtual tours of colleges and universities. I then spent many years as a full-stack developer using mainly Microsoft technologies, such as .Net, Asp.Net MVC, SQL Server and JavaScript before moving into team leading and management roles."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
 
   "personalInfo": {
-    "name": "Mike Clarke",
-    "title": "Software Engineer & Enginering Manager",
+    "name": "John Doe",
+    "title": "Head of Division",
     "roles": [
       {
-        "role": "Systems Engineer"
+        "role": "Engineer"
       },
       {
-        "role": "Technical Manager"
-      },
-      {
-        "role": "Analyst Programmer"
-      },
-      {
-        "role": "Development Analyst"
-      },
-      {
-        "role": "Senior Developer"
-      },
-      {
-        "role": "Head of Technical Delivery"
-      },
-      {
-        "role": "Software Developer"
-      },
-      {
-        "role": "Engineering Principal"
-      },
-      {
-        "role": "Head of Software Engineering"
-      },
-      {
-        "role": "Engineering Manager"
+        "role": "Lead Engineer"
       },
       {
         "role": "Head of Engineering"
+      },
+      {
+        "role": "Head of Division"
       }
     ],
-    "website": "www.mikeclarke.co.uk",
-    "degree": "BSc Hons Computing Science",
+    "website": "www.johndoe.com",
+    "degree": "BSc Hons Engineering",
     "city": "London, UK",
-    "email": "mail@mikeclarke.co.uk",
-    "phone": "07740 336 325",
+    "email": "mail@johndoe.com",
+    "phone": "07770 777 777",
     "twitter": "https://twitter.com/MikeClarke_1970",
     "linkedIn": "https://www.linkedin.com/in/mike-clarke-9935013/",
     "facebook": "https://www.facebook.com/mike.clarke.18488",
@@ -69,10 +48,10 @@
     "github": "https://github.com/sidcupmc",
     "passion": [
       {
-        "text": "Engineering Manager with a software engineering background and experience of creating, scaling, motivating and leading high-performing teams. The ability to adapt to any situation and a good communicator at all levels, including C-suite. I possess product development, project management and stakeholder management skills. Am passionate about problem-solving and an advocate for Agile software development and DevOps practices."
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       },
       {
-        "text": "I strive for team accountability, shared ownership and team autonomy where teams have a good team morale, are able to collaborate well, are able to focus and can ultimately make the best decisions themselves."
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     ]
   },
@@ -88,21 +67,6 @@
         },
         {
           "module": "Principles of developing, managing and leading individuals and teams to achieve success"
-        },
-        {
-          "module": "Managing stakeholder relationships"
-        },
-        {
-          "module": "Managing projects to achieve results"
-        },
-        {
-          "module": "Managing change"
-        },
-        {
-          "module": "Creating and delivering operational plans"
-        },
-        {
-          "module": "Managing finance"
         }
       ]
     },
@@ -133,71 +97,6 @@
           "module": "Business Skills for Computing Professionals"
         }
       ]
-    },
-    {
-      "title": "BTEC ONC Electrical and Electronic Engineering",
-      "year": "1991 - 1993",
-      "establishment": "Bromley College of Technology",
-      "modules": [
-        {
-          "module": "Electrical and Electronic Principles"
-        },
-        {
-          "module": "Electronics"
-        },
-        {
-          "module": "Microelectronic Systems"
-        },
-        {
-          "module": "Software Design Methods"
-        },
-        {
-          "module": "Digital Systems"
-        },
-        {
-          "module": "Engineering Applications of Computers"
-        },
-        {
-          "module": "Computer Systems Building"
-        },
-        {
-          "module": "Analytical Maths"
-        },
-        {
-          "module": "Industry and Society"
-        }
-      ]
-    },
-    {
-      "title": "City & Guilds Electrical and Electronic Engineering Part I-III",
-      "year": "1988 - 1991",
-      "establishment": "Woolwich College",
-      "modules": []
-    },
-    {
-      "title": "Secondary School",
-      "year": "1982 - 1987",
-      "establishment": "Eltham Green School",
-      "modules": [
-        {
-          "module": "O Level - Physics"
-        },
-        {
-          "module": "O Level - English Literature"
-        },
-        {
-          "module": "O Level - Art"
-        },
-        {
-          "module": "CSE - English Language"
-        },
-        {
-          "module": "CSE - Economics"
-        },
-        {
-          "module": "CSE - Geography"
-        }
-      ]
     }
   ],
 
@@ -225,71 +124,8 @@
     {
       "year": "2017",
       "title": "Developing Cross-Platform Apps with C# using Xamarin"
-    },
-    {
-      "year": "2014",
-      "title": "ITIL Foundation Certificate in Service Management"
-    },
-    {
-      "year": "2013",
-      "title": "Agile Alliance Scrum Master Certified"
-    },
-    {
-      "year": "2013",
-      "title": "Agile Alliance Scrum Developer Certified"
-    },
-    {
-      "year": "2012",
-      "title": "Agile Software Development and TDD Training Course"
-    },
-    {
-      "year": "2007",
-      "title": "Certified Ektron CMS Developer"
-    },
-    {
-      "year": "2005",
-      "title": "MCP Developing & Implementing Web Apps with C# .NET"
-    },
-    {
-      "year": "2002",
-      "title": "Developing ASP.NET applications using Visual Studio .NET"
-    },
-    {
-      "year": "2002",
-      "title": "Windows 2000 Security (ISA, IIS5)"
-    },
-    {
-      "year": "2001",
-      "title": "Developing ASP applications using Microsoft Interdev 6.0"
-    },
-    {
-      "year": "2000",
-      "title": "MCP Microsoft NT Server 4"
-    },
-    {
-      "year": "2000",
-      "title": "MCP Microsoft NT Server 4 In the Enterprise"
-    },
-    {
-      "year": "2000",
-      "title": "MCP Microsoft Internet Information Server 4"
-    },
-    {
-      "year": "1999",
-      "title": "Microsoft NT Workstation 4"
-    },
-    {
-      "year": "1998",
-      "title": "MCP TCP/IP Internetworking with NT 4.0"
-    },
-    {
-      "year": "1998",
-      "title": "Global Knowledge, Mastering Visual Basic Fundamentals"
-    },
-    {
-      "year": "1998",
-      "title": "Microsoft Networking Essentials"
     }
+
   ],
 
   "work": [
@@ -336,176 +172,6 @@
           "duty": "Instilled a culture of ownership within the team enabling them to make collective decisions and to become more accountable, both individually and as a team."
         }
       ]
-    },
-    {
-      "jobTitle": "Head of Software Engineering",
-      "dates": "Apr 2022 - Oct 2022",
-      "company": "RDT",
-      "duties": [
-        {
-          "duty": "Headed up the Software Engineering function, consisting of around 35 Graduate, Associate, Senior, and Lead Software Engineers. Five direct reports and around 30 indirect reports. Responsible for the recruitment, training and career progression of all engineers."
-        },
-        {
-          "duty": "Helped introduce better ways of working including setting up agile product teams and implementing modern working practices to help drive a culture of rapid feedback and continuous improvement."
-        },
-        {
-          "duty": "Introduced a community of practice that helped contribute to better communication, better ways of working, and reduction of duplication and waste. This included setting up online communities and online lunch and learn sessions. Established a Software Engineering Team Charter that helped improve working practices and create consistency across the software engineering function."
-        },
-        {
-          "duty": "Set up a skills matrix for all Engineers to facilitate skills tracking and help with identifying training requirements."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Engineering Principal",
-      "dates": "Oct 2016 - Feb 2022",
-      "company": "London & Quadrant",
-      "duties": [
-        {
-          "duty": "Managing a team of 16 Software, DevOps, Test Engineers and Scrum Masters. Overseeing the team’s software development and testing processes, resource management, team training/development and mentoring. Helping the teams embed DevOps practices throughout the SDLC process."
-        },
-        {
-          "duty": "Responsible for the output of five agile cross-functional squads, encouraging team members to write clean, maintainable code using SOLID principles and ensuring good test coverage. Helped implement DevOps practices such as CI/CD using Team City, Octopus Deploy and Azure DevOps and working practices such as TDD, BDD, Pair Programming and Peer Reviews."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Senior Developer",
-      "dates": "Oct 2011 - Sep 2016",
-      "company": "London & Quadrant",
-      "duties": [
-        {
-          "duty": "Working on the first ever Agile software development project redesigning and developing a housing management system, including a new Rents and Service Charges Calculation system."
-        },
-        {
-          "duty": "Worked within a Scrum team on the Business Transformation Project. This involved designing and developing software that facilitated new business processes for the organisation's home lettings and sales divisions"
-        },
-        {
-          "duty": "I took the role of Scrum Master throughout the project's three-year timescale and helped ensure that Scrum ceremonies such as product refinement, sprint planning, sprint retrospectives and sprint reviews were carried out."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Senior Developer",
-      "dates": "Dec 2009 - Oct 2011",
-      "company": "Nomura",
-      "duties": [
-        {
-          "duty": "Developing the trading application for the Equity Research department. This included desktop, server, windows services and web applications."
-        },
-        {
-          "duty": "Bespoke applications such as an application for automating Excel and PowerPoint data updating, web services to provide data to client applications and creating .Net DLLs to add functionality to existing VB6 and .Net applications."
-        },
-        {
-          "duty": "This role also involved database design and development including creating triggers and stored procedures. The role required a good knowledge of software architecture in order to develop systems that conform to the company software development policy of reusable and maintainable code."
-        },
-        {
-          "duty": "The role also involved overseeing some of the Production Services support team's work, such as approving SQL code before it is released into the production environment."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Head of Technical Delivery",
-      "dates": "Mar 2007 - Sep 2009",
-      "company": "Condé Nast Publications Ltd",
-      "duties": [
-        {
-          "duty": "Acting as a liaison between Systems department and Online department to ensure that company websites are built according to Condé Nast best practices."
-        },
-        {
-          "duty": "This involved working with Online developers and third-party contractors to help improve the way software projects were run, cooperating with the infrastructure and MIS team to ensure that new software systems did not negatively impact Condé Nast's existing systems and infrastructure."
-        },
-        {
-          "duty": "This role also involved development of the Johansens website owned by Condé Nast."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Senior Developer",
-      "dates": "Oct 2005 - Mar 2007",
-      "company": "Financial Training Company",
-      "duties": [
-        {
-          "duty": "Modifying and improving FTC's e-commerce site."
-        },
-        {
-          "duty": "Implementing change requests issued by project sponsors in accordance to Functional Design Specification and Technical Design Documents."
-        },
-        {
-          "duty": "Modifying Business Objects to facilitate changes in Business requirements. Creating web services using C#. Creating .Net 2.0 applications using ADO.Net."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Development Analyst",
-      "dates": "Sep 2004 - Oct 2005",
-      "company": "Herbert Smith",
-      "duties": [
-        {
-          "duty": "Modifying and developing existing web-based applications using C# and SQL 2000."
-        },
-        {
-          "duty": "Creating windows applications using C# and VB.NET."
-        },
-        {
-          "duty": "Modifying SharePoint Portal Server 2003 based Intranet, including creating web-parts using C#."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Analyst Programmer",
-      "dates": "Jul 2002 - Sep 2004",
-      "company": "CMS Cameron McKenna",
-      "duties": [
-        {
-          "duty": "Designing, developing and Maintaining Intranet and Desktop applications using ASP.NET, C#, VB6, VB.NET, ASP, ADO.NET, ADO, XML, XSL, HTML, JavaScript, SQL 7, SQL 2000 and other Microsoft technologies."
-        },
-        {
-          "duty": "Involved with software projects from initial feasibility stage, defining user requirements, right through to system testing and project completion."
-        },
-        {
-          "duty": "Projects include creating an online records management system and an online financial reporting system. Creating .NET web services and COM components for use in legal Intranet portal and replacing legacy systems with new Microsoft based systems."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Technical Manager/Developer",
-      "dates": "Feb 2001 - Jul 2002",
-      "company": "StudentUK.com",
-      "duties": [
-        {
-          "duty": "Developing Internet applications for StudentUK, (was one of the UK's leading student web-sites) using ASP.NET, VB6, ASP, ADO, HTML, JavaScript, SQL 7 and SQL 2000 and other Microsoft technologies. Creating simple graphics for website using Photoshop and Paint Shop Pro."
-        },
-        {
-          "duty": "Responsible for all technical issues including network, firewall maintenance, server maintenance, backup strategy, virus protection and SQL databases."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Systems Engineer",
-      "dates": "Aug 1997 - Feb 2001",
-      "company": "Thames Water Utilities",
-      "duties": [
-        {
-          "duty": "Developing Intranet applications using VB6, ASP, COM, ADO, HTML and JavaScript. Projects include design and implementation of Fault-reporting System and Web-based File Storage System."
-        }
-      ]
-    },
-    {
-      "jobTitle": "ICA Technician/Team leader",
-      "dates": "Jun 1991 - Apr 1997",
-      "company": "Thames Water Utilities",
-      "duties": [
-        {
-          "duty": "Installing, developing and maintaining PC and VAX based control and monitoring systems. Project management of capital works up to £25,000. Installation, calibration and maintenance of instrumentation and control systems."
-        }
-      ]
-    },
-    {
-      "jobTitle": "Electrical and Instrumentation Apprentice",
-      "dates": "Jul 1987 - Jun 1991",
-      "company": "Thames Water Utilities",
-      "duties": []
     }
   ],
 
@@ -514,25 +180,25 @@
       "picSource": "MikeFriel.jpg",
       "name": "Michael Friel FBCS",
       "title": "Engineering Director, B2C EMEA",
-      "text": "I had the pleasure of working with Mike during a digital transformation programme at L&Q. Througout this period Mike acted as a strong, competent advocate for modern software engineering practices. He was a supportive manager for his team and highly focused in delivering the highest quality outcomes for the business. He was very supportive of me in my role, and a trusted member of my leadership team. Mike demonstrated a natural tendency towards best practice in engineering and delivery. He actively promoted the adoption of agile practices while driving a high quality agenda in software delivery outcomes. I would recommend Mike to any organisation seeking to hire a strong engineering manager. I would welcome the opportunity to work with him again in the future."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "picSource": "JamieGardiner.jpg",
       "name": "Jamie Gardiner",
       "title": "Senior Software Engineer at Cazoo",
-      "text": "I highly recommend Mike as a Software Engineering Manager. With strong technical knowledge in the Microsoft space, particularly in .NET and Azure, he consistently demonstrated an in-depth understanding of complex concepts, elevating our team's work. Mike stands up for his team, shielding them from distractions and fostering focus and productivity. He is an advocate of Agile software engineering practices, and actively promotes their implementation within the team and the wider business. He also welcomes suggestions, promotes healthy discussions, and encourages critical thinking. He identifies individual and team strengths and provides tailored guidance, helping engineers thrive professionally and technically."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "picSource": "AndyDeakins.jpg",
       "name": "Andrew Deakins",
       "title": "Azure Developer at L&Q",
-      "text": "It is my pleasure to highly recommend Michael Clarke for any role as an Engineering Principal. I have had the privilege of working closely with Michael at L&Q on a number of occasions, where he proved his exceptional leadership skills and dedication to driving improvement throughout the L&Q organisation. As a leader, Michael inspired his team members to excel through his own exemplary work ethic and collaborative approach and fostered an environment of open communication, where ideas are valued, and diverse perspectives are embraced. Due to Michael's background in and around I.T. development, he has a unique perspective and understanding of the subject matter which further improves this communication. Beyond his technical expertise and leadership capabilities, Michael exhibited exceptional professionalism and a strong commitment to upholding the highest standards of integrity and quality in his work. He is not only a valuable asset to any engineering project or initiative but also a trusted mentor and advisor who is always willing to lend a helping hand and share his knowledge and expertise with others. In summary, Michael is an outstanding Engineering Principal who brings a wealth of experience, skills, and passion to everything he does. He would undoubtedly make a significant and positive impact in any engineering leadership role. I wholeheartedly recommend him without reservation."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "picSource": "ChikaChidi.jpg",
       "name": "Chika Chidi",
       "title": "Principal Software Engineer at Gentrack Ltd (Global)",
-      "text": "I have had the pleasure of working closely with Mike for a number of years in his capacity as an Engineering Principal at L&Q, and I can confidently attest to his exceptional leadership and technical prowess. He was responsible for the output of several multifaceted high-performing Agile teams, successfully leading them through the delivery of numerous high-profile complex projects whilst always ensuring seamless collaboration and synergy across his teams. One of Mike's many key strengths was his attention to detail and meticulous approach to software development and testing, which ensured clarity and consistency in our processes as well as contributed to the overall success of our projects. Mike actively promoted the adoption of Agile, DevOps and Software Engineering best practices including clean code, continuous testing, CI/CD, and was instrumental in shaping our ways of working and improving overall quality of our delivery outputs, while reducing lead times. Furthermore, Mike was committed and dedicated to fostering a culture of collaboration and continuous learning. He led by example, encouraged open communication, promoted diversity and inclusion, approached challenges as opportunities, provided coaching/mentoring, and ensured each of his reports had the necessary skills and knowledge they required to excel in their roles. In summary, Mike is an invaluable asset to any organisation seeking a dynamic and strong Engineering Manager/Principal and I would recommend him for any leadership role within the engineering domain. I would also welcome the opportunity to work with him again in the future."
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
 
