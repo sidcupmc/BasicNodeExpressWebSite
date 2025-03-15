@@ -3,7 +3,7 @@
     "pageTitle": "Basic Node Express Website",
     "technologiesTitle": "Technologies",
     "technologiesSubTitle": "Technology Interests",
-    "technologiesIntro": " Over the years i've been lucky enough to have worked with and been involved with a vast array of technologies. I started my career as an electrical engineer but was interested in electronics and electrics from an early age. After a few years as an electrical apprentice working for Thames Water, I was lucky enough to be able to move into the ICA (Instrumentation, Control and Automation) department. The ICA dept. was a reasonably new dept. within Thames Water and its function was mainly related to upgrading and automating the process and control of the plant that the sites used. After passing my apprenticeship I eventually got the role of Systems Engineer where I was responsible for the South East area for clean water treatment. This involved working on real-time control systems for the reseviours, pumping stations and the London Water Ring Main. After 11 years I left Thames Water and moved more towards business application software development.",
+    "technologiesIntro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "interests": "Interests"
   },
 
@@ -24,13 +24,7 @@
     "title": "Head of Division",
     "roles": [
       {
-        "role": "Engineer"
-      },
-      {
         "role": "Lead Engineer"
-      },
-      {
-        "role": "Head of Engineering"
       },
       {
         "role": "Head of Division"
@@ -41,11 +35,11 @@
     "city": "London, UK",
     "email": "mail@johndoe.com",
     "phone": "07770 777 777",
-    "twitter": "https://twitter.com/MikeClarke_1970",
-    "linkedIn": "https://www.linkedin.com/in/mike-clarke-9935013/",
-    "facebook": "https://www.facebook.com/mike.clarke.18488",
-    "instagram": "https://www.instagram.com/sidcupmc/",
-    "github": "https://github.com/sidcupmc",
+    "twitter": "https://twitter.com/",
+    "linkedIn": "https://www.linkedin.com/",
+    "facebook": "https://www.facebook.com/",
+    "instagram": "https://www.instagram.com/",
+    "github": "https://github.com/",
     "passion": [
       {
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -83,18 +77,6 @@
         },
         {
           "module": "Computer Systems Building"
-        },
-        {
-          "module": "Data Communication and Networks"
-        },
-        {
-          "module": "Human Computer Interaction"
-        },
-        {
-          "module": "Maths"
-        },
-        {
-          "module": "Business Skills for Computing Professionals"
         }
       ]
     }
@@ -116,60 +98,40 @@
     {
       "year": "2017",
       "title": "Scrum.Org Professional Scrum Master PSM1"
-    },
-    {
-      "year": "2017",
-      "title": "Developing Microsoft Azure Solutions (M20532)"
-    },
-    {
-      "year": "2017",
-      "title": "Developing Cross-Platform Apps with C# using Xamarin"
     }
 
   ],
 
   "work": [
     {
-      "jobTitle": "Head of Engineering",
-      "dates": "Jun 2024 - present",
-      "company": "Royal Pharmaceutical Society",
+      "jobTitle": "Head of Division",
+      "dates": "Jun 2022 - present",
+      "company": "Grand Corp Inc.",
       "duties": [
         {
-          "duty": "Leading an engineering team of up to 20 members: Responsible for managing, providing leadership, hiring, training, and evaluating team members."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "duty": "Developing and implementing engineering strategies: Working closely with senior management to develop and implement engineering strategies that align with the company's overall goals and objectives."
-        },
-        {
-          "duty": "Managing project timelines and budgets: Responsible for ensuring that projects are completed on time and within budget by managing project timelines, resources, and budgets."
-        },
-        {
-          "duty": "Collaborating with other departments: Working closely with other departments, such as product development and editorial, to ensure that engineering projects align with the company's overall strategy."
-        },
-        {
-          "duty": "Ensuring compliance with industry standards: Responsible for ensuring that the engineering department operates in compliance with all relevant industry standards and regulations."
-        },
-        {
-          "duty": "Communicating with stakeholders: Communicating regularly with stakeholders, such as senior management, customers, and partners, to keep them informed of project progress and to address any concerns or issues."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     },
     {
-      "jobTitle": "Engineering Manager",
-      "dates": "Jun 2023 - Feb 2024",
-      "company": "Checkatrade",
+      "jobTitle": "Lead Engineer",
+      "dates": "Jan 2020 - Jun 2022",
+      "company": "Big Corp Inc.",
       "duties": [
         {
-          "duty": "Managing a team of software engineers working on transforming the existing legacy .Net applications and moving them to a micro services-based architecture, hosted in GCP."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "duty": "Helped improve the quality of the product backlog and speed up delivery by creating user stories, backlog grooming and introducing agile ceremonies to aid prioritisation and sizing."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "duty": "Improved software delivery process by using CCV metrics to measure deployment frequency, lead time, cycle time and coding days.  Introduced better reporting metrics using Jira stats, presented in Confluence documentation. Improved visibility of information using automation tools e.g. GIT to Slack, incident information (Incident.IO) to Slack and Datadog to Slack."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "duty": "Instilled a culture of ownership within the team enabling them to make collective decisions and to become more accountable, both individually and as a team."
+          "duty": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     }
@@ -177,27 +139,27 @@
 
   "testimonials": [
     {
-      "picSource": "MikeFriel.jpg",
-      "name": "Michael Friel FBCS",
-      "title": "Engineering Director, B2C EMEA",
+      "picSource": "1.jpg",
+      "name": "Michael Fritz",
+      "title": "Engineering Director",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "picSource": "JamieGardiner.jpg",
-      "name": "Jamie Gardiner",
-      "title": "Senior Software Engineer at Cazoo",
+      "picSource": "2.jpg",
+      "name": "Jamie Garden",
+      "title": "Senior Software Engineer",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "picSource": "AndyDeakins.jpg",
-      "name": "Andrew Deakins",
-      "title": "Azure Developer at L&Q",
+      "picSource": "3.jpg",
+      "name": "Andrew Deakon",
+      "title": "Azure Developer",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
-      "picSource": "ChikaChidi.jpg",
-      "name": "Chika Chidi",
-      "title": "Principal Software Engineer at Gentrack Ltd (Global)",
+      "picSource": "4.jpg",
+      "name": "Chika Chou",
+      "title": "Principal Software Engineer",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
