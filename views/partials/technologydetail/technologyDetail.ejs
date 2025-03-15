@@ -1,0 +1,39 @@
+<section id="portfolio" class="portfolio section-bg">
+  <div class="container" data-aos="fade-up">
+    <div class="technology-section-title">
+      <h2><%= technologyDetail.title %></h2>
+    </div>
+
+    <div class="row">
+      <div
+        class="col-lg-8 d-flex justify-content-center"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <p><%= technologyDetail.intro %></p>
+      </div>
+
+      <div
+        class="col-lg-4 d-flex justify-content-center"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <img
+          src="assets/img/technologies/<%= technologyDetail.picSource %>"
+          class="img-fluid"
+          alt="Graphic for <%= technologyDetail.title %>"
+        />
+      </div>
+    </div>
+
+    <div class="section-title">
+      <span id="openLink">More Info...</span>
+
+      <script type="text/javascript">
+        $("#openLink").click(function () {
+          window.open("<%= technologyDetail.infoLink %>");
+        });
+      </script>
+    </div>
+  </div>
+</section>

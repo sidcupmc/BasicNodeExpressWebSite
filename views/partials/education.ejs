@@ -1,0 +1,18 @@
+<h3 class="cv-title">Education</h3>
+<div class="cv-item-container">
+  <% education.forEach(function (educationItem){ %>
+
+  <div class="cv-item">
+    <h4><%= educationItem.title %></h4>
+    <h5><%= educationItem.year %></h5>
+    <p><em><%= educationItem.establishment %></em></p>
+    <ul>
+      <% educationItem.modules.forEach(function (item){ %>
+
+      <li><%= item.module %></li>
+
+      <% }) %>
+    </ul>
+  </div>
+  <% }) %>
+</div>

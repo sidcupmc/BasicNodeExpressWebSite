@@ -1,0 +1,20 @@
+<h3 class="cv-title">Professional Experience</h3>
+
+<div class="cv-item-container">
+  <% work.forEach(function (workItem){ %>
+
+  <div class="cv-item">
+    <h4><%= workItem.jobTitle %></h4>
+    <h5><%= workItem.dates %></h5>
+    <p><em><%= workItem.company %></em></p>
+    <ul>
+      <% workItem.duties.forEach(function (item){ %>
+
+      <li><%= item.duty %></li>
+
+      <% }) %>
+    </ul>
+  </div>
+
+  <% }) %>
+</div>
